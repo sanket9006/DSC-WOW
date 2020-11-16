@@ -5,10 +5,10 @@ import "./styles/index.css";
 const Schedule = () => {
   return (
     <section className="schedule__wrapper" id="#schedule">
-      <div className="row mb-5">
+      <div className="row">
           <Card title="1" size="col-md-12" color="red" />
       </div>
-      <div className="row mb-5">
+      <div className="row">
         <Card title="2" size="col-md-6" color="green" />
         <Card title="3" size="col-md-6" color="blue" />
       </div>
