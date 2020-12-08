@@ -39,7 +39,7 @@ import egghead from './assets/egghead.png';
 import taskade from './assets/taskade.png';
 import strikingly from './assets/strikingly.png';
 import thecodingculture from './assets/thecodingculture.png';
-import women from './assets/women.png';
+import women from './assets/womenlogo.png';
 import wolfram from './assets/wolfram.png';
 
 
