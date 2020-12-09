@@ -247,7 +247,7 @@ const Sponsors = () => {
                <a
                  target="_blank"
                  rel="noopener noreferrer"
-                 href="https://www.appstone.in/"
+                 href="https://www.nextstacks.com/"
                >
                  <img
                    src="images/loader.gif"
