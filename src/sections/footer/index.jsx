@@ -10,12 +10,12 @@ const Footer = () => {
             <div className="dsc__wow__footer">DSC WOW</div>
             <div className="wow__footer__links">
               <div className="wow__footer__link">
-                <a href="#" rel="noopener" target="_blank">
+                <a href="https://bit.ly/dscwowcoc" rel="noopener" target="_blank">
                   Code Of Conduct
                 </a>
               </div>
               <div className="wow__footer__link">
-                <a href="#" rel="noopener" target="_blank">
+                <a href="https://developers.google.com/community-guidelines" rel="noopener" target="_blank">
                   Community Guidelines
                 </a>
               </div>
