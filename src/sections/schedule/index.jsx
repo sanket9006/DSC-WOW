@@ -217,12 +217,13 @@ function ScrollableTabsButtonAuto() {
     ],
 
     [
+        
       {
-        title: "Building AR/VR App in less than 20 min",
+        title: "How to manage work-life balance",
         time: "5:00 PM - 5:40 PM",
-        speaker: "Koren Grishpoon",
-        hero: "day4/1.png",
-        llink: "https://bit.ly/dscwowday4",
+        speaker: "hear from Googlers",
+        hero: "day4/4.png",
+        link: "https://bit.ly/dscwowday4",
       },
       {
         title: "Building AR Apps on web",
@@ -239,12 +240,13 @@ function ScrollableTabsButtonAuto() {
         link: "https://bit.ly/dscwowday4",
       },
       {
-        title: "How to manage work-life balance",
-        time: "7:15 PM - 7:45 PM",
-        speaker: "hear from Googlers",
-        hero: "day4/4.png",
-        link: "https://bit.ly/dscwowday4",
-      },
+        title: "Building AR/VR App in less than 20 min",
+        time: "7:15 PM - 8:00 PM",
+        speaker: "Koren Grishpoon",
+        hero: "day4/1.png",
+        llink: "https://bit.ly/dscwowday4",
+      }
+    ,
     ],
   ];
 
