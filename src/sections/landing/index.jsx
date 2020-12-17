@@ -55,9 +55,9 @@ const Landing = () => {
 
           <button
             className="primary__btn"
-            onClick={() => setisModalOpen(true)}
+//             onClick={() => setisModalOpen(true)}
             disabled={true}
-            style={{ cursor: hasRegistered ? "not-allowed" : "pointer" }}
+            style={{ cursor: "not-allowed" }}
           >
             Registrations Closed
           </button>
